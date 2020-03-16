@@ -7,3 +7,5 @@ Steps to test this are as follow:
 5. Add Weatherbit API Key to the `WEATHERBIT_API_KEY` environment variable in `.env`
 6. `php artisan serve`
 
+To run tests please use: `php artisan test`
+
